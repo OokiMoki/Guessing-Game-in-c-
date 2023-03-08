@@ -1,4 +1,4 @@
-# Guessing-Game-in-c-
+# Guessing-Game-in-c#-
 Just a simple guessing game in made in c# for fun.
 
 If you are a beginner and want to try recreating these.
